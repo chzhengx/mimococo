@@ -6,3 +6,7 @@ node_modules/
 .DS_Store
 .swc
 .idea
+.idea/mimococo.iml
+.idea/.gitignore
+.idea/modules.xml
+.idea/vcs.xml
