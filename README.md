@@ -1,0 +1,2 @@
+# mimococo
+weixin mini program
